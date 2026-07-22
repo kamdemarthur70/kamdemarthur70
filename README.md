@@ -46,7 +46,7 @@
 
 ###
 
-<h2 data-importer="text" align="center">Connect with me</h2>
+<h2 data-importer="text" align="center">Connect me</h2>
 
 ###
 
